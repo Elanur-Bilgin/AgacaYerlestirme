@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\4-a)seçenek\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\4-a)seçenek\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\4-a)seçenek\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\4-a)seçenek\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\4-a)seçenek\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\4-a)seçenek\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\4-a)seçenek\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\4-a)seçenek\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\4-a)seçenek\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\4-a)seçenek\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\4-b) secenek\4-b)\bin\Debug\4-b).exe
+C:\Users\ASUS\Desktop\4-b) secenek\4-b)\bin\Debug\4-b).pdb
+C:\Users\ASUS\Desktop\4-b) secenek\4-b)\obj\x86\Debug\4-b).exe
+C:\Users\ASUS\Desktop\4-b) secenek\4-b)\obj\x86\Debug\4-b).pdb
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\4-b) secenek\4-b)\obj\x86\Debug\4-b).exe
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\4-b) secenek\4-b)\obj\x86\Debug\4-b).pdb
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\4-b) secenek\4-b)\bin\Debug\4-b).exe
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\4-b) secenek\4-b)\bin\Debug\4-b).pdb
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\4-b) secenek\4-b)\obj\x86\Debug\4-b).csprojResolveAssemblyReference.cache

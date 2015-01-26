@@ -1,0 +1,12 @@
+c:\users\asus\desktop\agac_ve ülkeler\agac_ve ülkeler\bin\Debug\agac_ve ülkeler.exe
+c:\users\asus\desktop\agac_ve ülkeler\agac_ve ülkeler\bin\Debug\agac_ve ülkeler.pdb
+c:\users\asus\desktop\agac_ve ülkeler\agac_ve ülkeler\obj\x86\Debug\agac_ve ülkeler.exe
+c:\users\asus\desktop\agac_ve ülkeler\agac_ve ülkeler\obj\x86\Debug\agac_ve ülkeler.pdb
+C:\Users\ASUS\Desktop\agac_ve ülkeler\agac_ve ülkeler\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\1-seçenek\agac_ve ülkeler\obj\x86\Debug\agac_ve ülkeler.exe
+C:\Users\ASUS\Desktop\1-seçenek\agac_ve ülkeler\obj\x86\Debug\agac_ve ülkeler.pdb
+C:\Users\ASUS\Desktop\1-seçenek\agac_ve ülkeler\bin\Debug\agac_ve ülkeler.exe
+C:\Users\ASUS\Desktop\1-seçenek\agac_ve ülkeler\bin\Debug\agac_ve ülkeler.pdb
+C:\Users\ASUS\Desktop\1-seçenek\agac_ve ülkeler\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\1-seçenek\agac_ve ülkeler\obj\x86\Debug\agac_ve ülkeler.exe
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\1-seçenek\agac_ve ülkeler\obj\x86\Debug\agac_ve ülkeler.pdb

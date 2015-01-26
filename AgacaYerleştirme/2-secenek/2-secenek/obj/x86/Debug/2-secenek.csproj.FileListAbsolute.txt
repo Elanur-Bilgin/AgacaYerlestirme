@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\2-secenek\2-secenek\bin\Debug\2-secenek.exe
+C:\Users\ASUS\Desktop\2-secenek\2-secenek\bin\Debug\2-secenek.pdb
+C:\Users\ASUS\Desktop\2-secenek\2-secenek\obj\x86\Debug\2-secenek.exe
+C:\Users\ASUS\Desktop\2-secenek\2-secenek\obj\x86\Debug\2-secenek.pdb
+C:\Users\ASUS\Desktop\2-secenek\2-secenek\obj\x86\Debug\2-secenek.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\2-secenek\2-secenek\obj\x86\Debug\2-secenek.exe
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\2-secenek\2-secenek\obj\x86\Debug\2-secenek.pdb
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\2-secenek\2-secenek\bin\Debug\2-secenek.exe
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\2-secenek\2-secenek\bin\Debug\2-secenek.pdb
+C:\Users\ASUS\Desktop\2.Sınıf3.Pojem\2-secenek\2-secenek\obj\x86\Debug\2-secenek.csprojResolveAssemblyReference.cache
